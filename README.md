@@ -1,5 +1,5 @@
 # vueapp
-Skeleton for vue.js apps
+Skeleton for Vue.js apps
 =======
 
 ## Project setup
