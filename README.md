@@ -1,5 +1,6 @@
 # vueapp
 Skeleton for Vue.js apps
+example deployment: https://unruffled-babbage-826f77.netlify.app/
 =======
 
 ## Project setup
