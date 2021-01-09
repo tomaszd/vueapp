@@ -1,7 +1,7 @@
-# vueapp
-Skeleton for Vue.js apps
-example deployment: https://unruffled-babbage-826f77.netlify.app/
-=======
+# Skeleton for Vue.js apps
+
+deployment: https://unruffled-babbage-826f77.netlify.app/
+
 
 ## Project setup
 ```
@@ -25,4 +25,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> master
